@@ -4,7 +4,7 @@ Sistema interativo de triagem e gerenciamento de chamados de suporte técnico, d
 
 ## 🚀 Demonstração
 
-[Live Demo - Treeage](#)
+[Live Demo - Treeage](https://treeage.streamlit.app/)
 
 ## 📌 Funcionalidades
 
